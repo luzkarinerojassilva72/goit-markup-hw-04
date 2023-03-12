@@ -290,7 +290,7 @@ a {
 
 .clients-icons {
     width: 170px;
-    height: 81px;
+    height: 60px;
     border: 1px solid #afb1b8;
     border-radius: 4px;
   }
@@ -303,6 +303,14 @@ a {
     fill: var(--acent-color);
     border-color: var(--acent-color);
   }
+  
+  .client-container {
+    height: 80px;
+    border: 1px solid #afb1b8;
+    border-radius: 4px;
+    line-height: 105px;
+  }
+
 
 .footer {
   background-color: var(--background-color-dark);
